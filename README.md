@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://x.com/cs_khanshan"><img src="https://img.shields.io/badge/X-%40cs__khanshan-020403?style=for-the-badge&logo=x&logoColor=76B900&labelColor=020403"></a>
-  <a href="https://www.linkedin.com/in/zeeshan-khan-mehsud-6a84b9242"><img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Mehsud-020403?style=for-the-badge&logo=linkedin&logoColor=76B900&labelColor=020403"></a>
+  <a href="(https://www.linkedin.com/in/mohammed-zeeshan-mehsud-6a84b9242/)"><img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Mehsud-020403?style=for-the-badge&logo=linkedin&logoColor=76B900&labelColor=020403"></a>
   <img src="https://komarev.com/ghpvc/?username=cskhanshan&style=for-the-badge&color=76B900&labelColor=020403&label=VISITORS">
 </p>
 
